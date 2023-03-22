@@ -4,4 +4,7 @@
 
 בכל שלב אתה שוטר שנותן לאנשים מסכות ע"י ירי ברובה המסיכות המיוחד שלך, אבל צריך לשים לב לא לפגוע באנשים שכבר לובשים מסכות כי זה יוריד לך ניקוד. בכל שלב אתה המטרה היא לסיים הכי מהר שאפשר, בכדי להתקדם לשלב הבא, תוך כדי צבירת ניקוד. מהות המשחק היא: לוודא שכל האנשים לובשים מסכות במיקום שלך, מתי שמשחקים את המשחק לא רק נהנהים אלא גם מקדמים את החשיבות של מסכות בתקופת מגפת הקורונה.
 
+![]()
+<div style="text-align:center"><img src="https://github.com/Game-Dev-Baram-Chahine/covid-cop/blob/main/pics/Covid-Cop-Play.gif" width="300" height="700"/></div>
+
 Covid Cop [Formal elements](https://github.com/Game-Dev-Baram-Chahine/covid-cop/wiki)
